@@ -14,6 +14,16 @@ I'm a passionate developer based in Newcastle, UK, currently pursuing an Interna
 
 ---
 
+## 🧪 Projects
+
+- ✅ **[tr4cka](https://tr4cker-app.vercel.app/)** – A clean, mobile-first habit and task tracker that helps users build routines and visualize consistency in daily goals.
+
+- 🎓 **[Visionary Minds Scholars](https://visionary-minds.vercel.app/)** – A responsive website for a scholarship facilitation agency, helping students discover and apply for international opportunities.
+
+👉 See more of my work in the [Projects Repo](https://github.com/benjamin-matapo/projects)
+
+---
+
 ## 🧠 Skills
 
 **Languages:** JavaScript, Python, TypeScript, Java, HTML5, CSS  
@@ -29,13 +39,6 @@ I'm a passionate developer based in Newcastle, UK, currently pursuing an Interna
 - [Springpod Virtual Work Experience – Software Dev](https://experience.springpod.co.uk/certificates/q5werhxa9d)
 - [JavaScript Data Structures & Algorithms (freeCodeCamp)](https://freecodecamp.org/certification/b_enji/javascript-algorithms-and-data-structures-v8)
 - [Responsive Web Design (freeCodeCamp)](https://www.freecodecamp.org/certification/b_enji/responsive-web-design)
-
----
-
-## 🧪 Projects
-
-- 🛍️ **[Zed Cart ZM](#)** – Mobile-first e-commerce store for Zambian customers importing from China.
-- 🎓 **[Visionary Minds Scholars](#)** – Scholarship facilitation site optimized for performance & accessibility.
 
 ---
 
