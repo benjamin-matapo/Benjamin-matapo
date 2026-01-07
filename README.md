@@ -1,78 +1,74 @@
-# Hi, I'm Benjamin Matapo 👋
+# 👋 Hi, I'm Benjamin Matapo
 
-🎓 **Full-Stack Developer** | 🌐 Software Engineering Student | 🚀 Lifelong Learner  
+**Full-Stack Developer · Software Engineering Student · Builder**
 
-I'm a passionate developer based in Newcastle, UK, currently studying **BSc (Hons) Computer Science – Software Engineering** at Newcastle University. I enjoy solving real-world problems with clean, scalable code and love bringing ideas to life through functional, responsive web applications.
-
----
-
-## 🌟 What I Do
-
-- 🔧 Build full-stack web apps with **React**, **Next.js**, and **Firebase**
-- 🛠 Freelance Web Developer: From e-commerce to educational platforms
-- 📚 Constantly sharpening my skills through hands-on projects, internships, and certifications
-- 🤝 Experienced in agile workflows, remote collaboration, and feature delivery from idea to deployment
+I'm a developer based in Newcastle, UK, passionate about turning ideas into real, working products. I’m currently studying Computer Science at Newcastle University, but most of my learning happens outside the classroom—building apps, freelancing, and solving problems with code.  
+I believe the best software isn't just functional—it’s human, intuitive, and makes life a little easier.
 
 ---
 
-## 🧪 Projects
+## 🚀 Projects
 
-- ✅ **[tr4cka](https://tr4cker-app.vercel.app/)** – Full-stack task manager with progress analytics, built with Next.js, TypeScript, and Firebase.  
+Here’s some of what I’ve been building lately:
 
-- 💰 **[Spending Tracker](https://spending-tracker-brown.vercel.app/)** – A clean and interactive tool to track expenses, visualize spending, and stay accountable with personal finance goals.  
+### **[tr4cka](https://tr4cker-app.vercel.app)**
+A full-stack task and habit tracker with progress analytics.  
+*Built with:* Next.js · TypeScript · Firebase  
+*Why I built it:* To help people visualize progress, not just check boxes.
 
-- 🎓 **[Visionary Minds Scholars](https://visionary-minds.vercel.app/)** – SEO-optimised website for a scholarship facilitation agency, built with Next.js and TypeScript.  
+### **[Everett Investments](https://everett-investments.vercel.app)**
+A modern loans platform with secure authentication and interactive calculators.  
+*Built with:* Next.js · TypeScript · Tailwind CSS  
+*Why I built it:* To make financial tools feel clear and accessible.
 
-- 🛒 **[Zed Cart ZM](https://zedcartzm.myshopify.com/)** – Mobile-first e-commerce platform for Zambian users, enabling seamless cross-border shopping.  
+### **[Spending Tracker](https://spending-tracker-brown.vercel.app/add)**
+A clean, visual tool to track expenses and understand spending habits.  
+*Built with:* Next.js · TypeScript · Chart.js  
+*Why I built it:* Because budgeting shouldn’t feel like a spreadsheet.
 
-👉 See more of my work in the [Projects Repo](https://github.com/benjamin-matapo/projects)
+### **[Visionary Minds Scholars](https://visionary-minds.vercel.app)**
+An SEO-optimized website for a scholarship agency.  
+*Built with:* Next.js · Lazy loading · Responsive design  
+*Why I built it:* To help students find opportunities faster.
 
 ---
 
-## 🧠 Skills
+## 🛠️ Skills
 
-**Languages:** JavaScript, TypeScript, Python, Java, HTML5, CSS  
-**Frameworks & Libraries:** React, Next.js, Tailwind CSS  
-**Tools & Platforms:** Git, GitHub, Firebase, REST APIs, Figma, Vercel  
-**Practices:** Agile Development, Mobile-First Design, Scalable Frontend Architecture, Remote Async Collaboration  
+**Languages:** JavaScript · TypeScript · Python · Java · HTML · CSS  
+**Frameworks & Tools:** React · Next.js · Tailwind CSS · Firebase · Git · Vercel · REST APIs  
+**Practices:** Agile development · Modular design · Responsive UI · CI/CD · Remote collaboration
 
 ---
 
 ## 💼 Experience
 
-- **Technology Intern** – Bright Network (Technology & Engineering) *(Remote, Jul 2025)*  
-  Gained insight into software engineering careers through challenges with partner firms (Google, Vodafone, EY). Strengthened agile, design thinking, and full-stack problem-solving skills.  
+**Freelance Web Developer** · *Oct 2024 – Present*  
+Building custom web apps for clients—from concept to launch. Focus on clean UI, performance, and user-focused design.
 
-- **Software Development Intern** – Springpod *(Remote, Apr 2025)*  
-  Simulated agile sprints, practiced Git, testing, modular design, and peer collaboration.  
+**Technology Intern @ Bright Network** · *Jul 2025*  
+Worked through real-world tech simulations with partners like Google and Vodafone. Practiced agile workflows and solution pitching.
 
-- **Freelance Web Developer** *(Oct 2024 – Present)*  
-  Delivered client projects including e-commerce (Zed Cart ZM) and educational platforms (Visionary Minds Scholars).  
+**Software Development Intern @ Springpod** · *Apr 2025*  
+Simulated agile sprints, Git workflows, and modular component design in a remote team setting.
 
 ---
 
 ## 🎓 Education
 
-- **BSc (Hons) Computer Science – Software Engineering** | Newcastle University *(2025 – 2028)*  
-- **International Foundation – Science, Computing, Engineering & Mathematics** | INTO Newcastle University *(Jan – Aug 2025)*  
-- **IGCSE (Grades 7–9, A*/A)** | British School of Geneva *(2022 – 2024)*  
+**Newcastle University** · BSc (Hons) Computer Science – Software Engineering · *2025 – 2028*  
+**INTO Newcastle University** · International Foundation – Computing & Engineering · *Jan – Aug 2025*  
+**British School of Geneva** · IGCSE (Grades 7–9 / A*/A) · *2022 – 2024*
 
 ---
 
-## 📜 Certifications
+## 📬 Let's Connect
 
-- [Bright Network Technology & Engineering Internship](https://www.brightnetwork.co.uk/certificates/ieuk-2025-technology-engineeri_q7hgzsfmyiekyd/) (2025)  
-- [React Foundations for Next.js (Vercel)](https://nextjs.org/learn/certificate?course=react-foundations&user=63339&certId=react-foundations-63339-1748285899097) (2025)  
-- [Springpod Virtual Work Experience – Software Dev](https://experience.springpod.co.uk/certificates/q5werhxa9d) (2025)  
-- [JavaScript Data Structures & Algorithms (freeCodeCamp)](https://freecodecamp.org/certification/b_enji/javascript-algorithms-and-data-structures-v8) (2024)  
-- [Responsive Web Design (freeCodeCamp)](https://www.freecodecamp.org/certification/b_enji/responsive-web-design) (2024)  
+I’m always open to chatting about tech, projects, or opportunities.
 
----
+- **Portfolio:** [benjamin-matapo.vercel.app](https://benjamin-matapo.vercel.app)
+- **LinkedIn:** [linkedin.com/in/benjamin-matapo](https://linkedin.com/in/benjamin-matapo)
+- **GitHub:** [github.com/benjamin-matapo](https://github.com/benjamin-matapo)
+- **Email:** matapobenjamin28@gmail.com
 
-## 🌐 Connect With Me
-
-- 🔗 [LinkedIn](https://linkedin.com/in/benjamin-matapo)  
-- 🖥️ [GitHub](https://github.com/benjamin-matapo)  
-- 📧 matapobenjamin28@gmail.com  
-
-Thanks for visiting my profile — let's build something amazing together! 💻
+Thanks for stopping by—if you're working on something cool, let’s talk! 💻✨
